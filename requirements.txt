@@ -1,0 +1,14 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+tensorflow
+
+# Optional, improves latent-space visualization quality; falls back to t-SNE if absent.
+umap-learn
+
+# Optional, used for RNA-seq batch-effect correction; falls back to per-batch
+# quantile normalization if absent.
+combat
